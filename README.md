@@ -1,4 +1,8 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=mirhec&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=mirhec&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mirhec&theme=gruvbox)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirhec&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mirhec/mirhec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
